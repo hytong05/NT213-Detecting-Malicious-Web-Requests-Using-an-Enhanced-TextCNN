@@ -21,7 +21,7 @@ kernel_size = 3  # Size of the convolutional filters
 hidden_dims = 250  # Number of neurons in the hidden layer
 dropout_rate = 0.5  # Dropout rate for regularization
 batch_size = 32  # Batch size for training
-epochs = 2  # Number of training epochs
+epochs = 10  # Number of training epochs
 threshold = 0.5  # Threshold for binary classification
 
 # Loading the dataset
